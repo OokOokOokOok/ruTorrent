@@ -1,0 +1,18 @@
+div#unpacknotify_dta { max-height: 420px; overflow-y: auto;}
+div#unpacknotify_rows fieldset {margin: 2px;}
+
+.unpacknotify__delete-button {
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
+    margin: 0;
+    overflow: visible;
+    text-transform: none;
+    -webkit-appearance: button;
+    float: right;
+    font-size: 0.8em;
+    padding: 0.2em;
+}
+
+.unpacknotify__row input {width: 60%;}
+.unpacknotify__row label {width: 20%;display: inline-block;}

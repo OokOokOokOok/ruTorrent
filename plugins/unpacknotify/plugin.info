@@ -1,0 +1,7 @@
+plugin.description: This plugin is designed to notify sonarr/radarr once unpack is done to import files unrared to a temporary directory
+plugin.author: ookookookook
+plugin.version: 1.0
+plugin.runlevel: 11
+plugin.dependencies: unpack
+php.extensions.error: json
+plugin.help: https://github.com/ookookookook/ruTorrent/tree/Ook-plugin-unpacknotify/plugins/unpacknotify
